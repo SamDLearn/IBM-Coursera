@@ -1,0 +1,20 @@
+Run a Notebook using Keras and DL4J
+
+
+1. Please enter the value for Accuracy as the answer to the quiz.
+
+Answer: 0.7933
+
+2. Assuming the following command to submit a spark job.
+
+!$SPARK_HOME/bin/spark-submit \--class skymind.dsx.IrisClassifier \--master $MASTER \--files iris.txt \dl4j-quickstart-1.0-SNAPSHOT-jar-with-dependencies.jar
+
+Answer: The job will fail if the class skymind.dsx.IrisClassifier is not in dl4j-quickstart-1.0-SNAPSHOT-jar-with-dependencies.jar
+
+
+3. When using DL4J to train a neural network on a Spark Cluster which of the following is a valid choice to allow the workers share parameters. For the purpose of this question the term parameters specifically refer to the weights of the connections between the nodes of the neural network.
+
+Answer: ParameterAveraging Training Master
+
+
+
