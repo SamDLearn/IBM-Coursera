@@ -1,0 +1,25 @@
+
+
+1. What is the main characteristic of the stateful LSTM Network?
+Answer: stateful LSTM ............n+1
+
+2. In which case would you prefer stateless over stateful LSTM?
+Answer: When ........... complete sentences
+
+3. Batch-size and trainings-set size (pick two)
+Answer: 
+
+4. Loss Function
+Answer: Mean .....outlier resistant
+
+5. What is the difference between Cell State and Hidden State?
+Answer: LSTM cell state.... and LSTM Hiddwn state..... are correct
+
+6. Given is the formula to compute the number of LSTM layer parameters:
+PARAMETERS = 4 * LSTM outputs size * (weights LSTM inputs size + weights LSTM outputs size + 1 bias variable)
+
+Please, calculate the parameters for the Layer with the output-shape (64, 30, 10). This the first layer after the input-layer, which has the shape (64, 30, 1).
+
+Select single correct answer:
+
+Answer:  480
