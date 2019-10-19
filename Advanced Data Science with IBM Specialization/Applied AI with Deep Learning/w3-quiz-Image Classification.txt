@@ -1,0 +1,17 @@
+
+
+1. Which neural network layer types are most commonly used in image classicifation?
+Answer: Convolution and MaxPooling
+
+
+2. What is the purpose of a Dropout layer?
+Answer: Prevent over-fitting on the training set
+
+
+3. Which statements are correct? Please choose all that apply.
+Answer: 
+Imagenet is a pre-classified dataset of images
+Resnet50 is a special Neural Network topology for classifying images
+
+
+
