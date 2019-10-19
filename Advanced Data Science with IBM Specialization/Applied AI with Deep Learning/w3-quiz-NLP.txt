@@ -1,0 +1,15 @@
+
+
+1. Which statement is correct?
+Answer: ....auto-encoder
+
+
+2. What is the closes result given the following word vectors and the given calculation?
+Answer: cat
+
+
+3. Which statements are correct? Please choose all that apply.
+Answer: 
+i=1,000,000,000 ...........  a=softmax
+
+
