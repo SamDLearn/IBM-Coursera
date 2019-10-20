@@ -1,0 +1,17 @@
+1. Where is data in "rdd" stored physically?
+Answer: In main-memory of ApacheSpark worker nodes
+
+2. Where is data in "rdd2" stored physically?
+Answer: On the local Driver machine
+
+3. What is the parallel version of the following code?
+Answer: sc.parallelize(range(9999999999)).count())
+
+4. Which storage solutions support seamless modification of schemas? (Select all that apply)
+Answer: ObjectStorage, NoSQL
+
+5. Which storage solutions support dynamic scaling on storage? (Select all that apply)
+Answer: ObjectStorage, NoSQL
+
+6. Which storage solutions support normalization and integrity checks on data out of the box? (Select all that apply)
+Answer: SQL/Relational Databases
