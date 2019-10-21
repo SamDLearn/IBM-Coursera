@@ -1,0 +1,47 @@
+1. What is to coordinate of this data point in vector notation?
+(2,3)
+
+2. What is to coordinate of this data point in vector notation?
+(1,2,3)
+
+3. Consider the following plot with two data points and a plane separating those points. This is a process which is called binary classification which will be covered in the next course.
+(..,..,1.5)
+
+4.Given the following plot you can clearly see that there are two clusters.
+(1.5,1.5,1.5) (2.1,1.9,2.2) (1,1,1)
+
+5. What is the correlation between the two lists?
+
+1,2,3,4,5,6,7,8,9,10
+
+7,6,5,4,5,6,7,8,9,10
+
+0.709
+
+6. What is the covariance between the two lists?
+
+1,2,3,4,5,6,7,8,9,10
+
+7,6,5,4,5,6,7,8,9,10
+
+3.65
+
+7. The correlation between the following two lists is zero, can you explain why?
+
+1,2,3,4,5,6,7
+
+7,6,5,4,5,6,7
+
+
+Correlation of 1st half of the list is negative and between the last half of the list is positive so they cancel out
+
+
+8. Please select all data with potentially high correlation
+
+Outside Temprature + Power Consumption of AC
+
+Crop fitness + Amount of water available
+
+Season of Year+Amount of Rain
+
+
