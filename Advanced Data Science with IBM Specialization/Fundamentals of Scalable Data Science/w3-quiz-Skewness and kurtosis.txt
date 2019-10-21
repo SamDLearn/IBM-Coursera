@@ -1,0 +1,20 @@
+1. Which of the two plots indicates a higher kurtosis value?
+Answer: plot1
+
+2.What is the kurtosis of the following list?
+34,1,23,4,3,3,12,4,3,1
+Answer:2.136
+
+2'.What is the Skewness of the following list?
+34,1,23,4,3,3,12,4,3,1
+Answer:1.725
+
+3.The higher the kurtosis value, the longer the "tails" of the distributions are. So, kurtosis measures the outlier content. The higher the kurtosis value, the more outliers are in the dataset because the more far a values is away from the mean, the more it contributes to the kurtosis. In other words, the distribution has long tails. Which are examples of long tailed datasets?
+
+Answer: 1,3,4
+
+4.What is true about this value distribution?
+Answer: positively skewed
+
+5.Consider a connected car. We are measuring the car's velocity 600 times per minute. Note that in time intervals the car stands the velocity of zero is measured. If we now plot the distribution of velocity values, is this distribution positively or negatively skewed?
+Answer: positively skewd
