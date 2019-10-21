@@ -1,0 +1,25 @@
+1. We are simulating an IoT device. What framework are we using for that?
+Answer: NodeRED
+
+2.What statements are true about cloudant? (Select all that apply)
+Answer: Cloudant is based on ApacheCouchDB , Cloudant is a NoSQL database , Cloudant is a Apache CouchDB NoSQL DB as a Service optimized for JSON documents , BigCouch is a component between the client and a set of CouchDB services used for horizontal scaling
+
+
+3.Please have a look at the following flow:
+Answer: Fluid Simulator ,  Mechanical Sensor Simulator , Voltage Sensor Simulator
+
+
+4.In the "End-to-End Scenario", where does all the data get stored in?
+Answer: Cloudant (ApacheCouchDB)
+
+5.How does the Catalyst optimizer work internally?
+Answer: A LEP is created from an SQL AST. This LEP is transformed (optimised). Then multiple PEPs are created from the optimised LEP. Finnaly, based on cost based statistics an optimal PEP is chosen to be executed.
+
+
+6.What is the advantage of using ApacheSparkSQL over RDDs? (select all that apply)
+Answer: 
+
+
+Catalyst and Tungsten are able to optimise the execution, so are more likely to execute more quickly than if you would had implemented something equivalent using the RDD API.
+
+The API is simpler and doesn't require specific functional programming skills
