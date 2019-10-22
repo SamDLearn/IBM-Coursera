@@ -1,0 +1,28 @@
+1- Among dimension reduction, what technique exist to visualize more than three dimensions in a single plot? (Select all that apply)
+
+Color coding for discrete dimensions , Using different symbols apart from simple points for discrete dimensions , Add multiple lines to a run chart
+
+
+2- What properties are true about PCA for dimension reduction? (Select all that apply)
+
+PCA is a linear transformation, this means most of the original propertes of your data are preserved , PCA transforms your dataset so that the first k dimensions have the lowest correlation among each other
+
+
+3- Which of the following statements is true about information loss using PCA?
+
+PCA dimensionality reduction is lossy
+
+
+
+4- How many outliers are present in this dataset?
+
+5
+
+
+
+
+5- Which statements are true about this plot? (select all that apply)
+
+
+This is a box plot , There are more than 15 outliers present , Kurtosis is >1 , Skew is > 1 ,  >50% of all values are <30  ,  Mean is >20
+
