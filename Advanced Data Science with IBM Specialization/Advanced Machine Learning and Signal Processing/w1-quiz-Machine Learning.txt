@@ -1,0 +1,19 @@
+1- Please order the following terms on their dimensionality
+scalar, vector, matrix, tensor
+
+2- A line can seperate two point clouds in 2D space. How would you call a line of separation in 3D space?
+plane
+
+3- A line can seperate two point clouds in 2D space. How would you call a line of separation in 4D space?
+
+
+4- How do you call the process of predicting a continuous value?
+Regression
+
+5- How do you call the process of predicting a discrete (categorical) value?
+Classification
+
+
+6- How do you call the process of finding data points which belong together?
+Clustering
+
