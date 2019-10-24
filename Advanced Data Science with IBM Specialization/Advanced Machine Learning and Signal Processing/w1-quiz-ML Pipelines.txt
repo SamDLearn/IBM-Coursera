@@ -1,0 +1,14 @@
+1- What are Machine Learning Pipelines?
+A way of speeding up ML development
+A way to do feature engineering within the pipeline framework
+A way of expressing your complete end-2-end machine learning flow within a single framework with a homogeneous API
+
+
+2- How is the class called which transforms a string class label to a class index in SparkML?
+StringIndexer
+
+
+3- What is the class called which transforms a set of columns in a data frame to a single DenseVector representation in SparkML?
+VectorAssembler
+
+
