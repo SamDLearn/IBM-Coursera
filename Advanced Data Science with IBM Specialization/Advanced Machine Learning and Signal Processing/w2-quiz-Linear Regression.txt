@@ -1,0 +1,20 @@
+1.Consider the following linear regression model.
+y = b + w1x1 + w2x2 + w3x3 + w4x4
+What answers are true?
+
+x1 - x4 are used to predict y
+w1 - w4 are used to predict y
+
+
+2.Consider the following linear regression model.
+y = b + w1x1 + w2x2 + w3x3 + w4x4
+
+What is the dimensionality of the training data set?
+4
+
+3.Consider the following linear regression model.
+y = b + w1x1 + w2x2 + w3x3 + w4x4
+Now consider that the influence of x3 to predict y is very low. On other words, independently of the value of x3, y doesn't change a lot, therefore x3 and y are weakly correlated.
+Please choose a value for w3 to reflect this behaviour
+
+0.1

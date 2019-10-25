@@ -1,0 +1,5 @@
+When do we have an over-fitting problem?
+
+
+If we perform well on the training set and poorly on the validation set
+
